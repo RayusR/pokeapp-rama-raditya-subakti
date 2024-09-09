@@ -50,16 +50,15 @@ body {
     background-color: #f8f9fa;
 }
 
-
 .right-content {
-    width: 40%;
+    width: 30%;
     text-align: center;
     color: #fff;
     position: fixed;
     top: 100px;
-    right: 5%;
+    right: 2.5%;
     background: #fff;
-    padding: 2.5rem;
+    padding: 2rem;
     border-radius: 20px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
     z-index: 10;
@@ -67,8 +66,8 @@ body {
 }
 
 .right-content img {
-    margin: 2rem auto;
-    height: 180px;
+    margin: 1.5rem auto;
+    height: 150px;
     border-radius: 15px;
     object-fit: cover;
     transition: transform 0.3s;
@@ -80,18 +79,18 @@ body {
 
 .right-content h1 {
     font-weight: 700;
-    font-size: 2.5rem;
-    letter-spacing: 2px;
-    margin-bottom: 1.5rem;
+    font-size: 2.2rem;
+    letter-spacing: 1.5px;
+    margin-bottom: 1.2rem;
     color: #b74555;
     text-transform: uppercase;
 }
 
 .right-content h2 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 400;
     color: #fff;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.2rem;
     letter-spacing: 1px;
     text-transform: capitalize;
 }
@@ -113,7 +112,6 @@ body {
     text-transform: uppercase;
     letter-spacing: 1px;
 }
-
 
 .base-stat {
     margin-top: 2rem;
